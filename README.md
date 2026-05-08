@@ -29,6 +29,7 @@ A curated list of learning materials to understand incremental materialized view
 - [OpenIVM: a SQL-to-SQL Compiler for Incremental Computations](https://arxiv.org/pdf/2404.16486v1#page=0.93) (2024)
 - [Incremental Processing with Change Queries in Snowflake](https://dl.acm.org/doi/pdf/10.1145/3589776) (2023)
 - [Tempura: A General Cost-Based Optimizer Framework for Incremental Data Processing](https://www.vldb.org/pvldb/vol14/p14-wang.pdf) (2021)
+- [Enzyme: Incremental View Maintenance for Data Engineering](https://arxiv.org/pdf/2603.27775) (2026)
 
 ## Blogs & Documentation
 
